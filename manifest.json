@@ -1,7 +1,7 @@
 {
     "short_name": "Waiters Browsers",
     "name": "WaiBrow",
-    "start_url": "https://meserosfrontfuncionando.herokuapp.com/login.html",
+    "start_url": "https://yepmeserosfuncionando.herokuapp.com/",
     "icons": [{
         "src": "./mesero.png",
         "type": "image/png",
